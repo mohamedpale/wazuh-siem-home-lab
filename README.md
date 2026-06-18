@@ -82,6 +82,16 @@ Adversarial emulation attacks were conducted against the environment to validate
 ---
 
 ## 📈 Real-Time SIEM Ingestion Verification
+### 📸 Deployment & Forensic Verification Proofs
+
+#### 1. Live Environment Connection (Active Status)
+![Active Infrastructure Agents](dashboard.png)
+
+#### 2. Threat Hunting Dashboard Analytics (MITRE ATT&CK Mapping)
+![SIEM Threat Hunting Dashboard](hunting.png)
+
+#### 3. Deep-Dive Forensic Document Details (JSON Log Metadata)
+![Forensic Document Details](forensics.png)
 Below is a forensic look at the exact event metadata captured during the adversary emulation phase, showcasing successful JSON log structure matching:
 
 | Metadata Field | Captured Forensic Metric |
